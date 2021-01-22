@@ -6,10 +6,14 @@ The task was to generate new clues for New York Times Mini crossword puzzle. To 
 
 The online dictionaries used were:
 
-cambridge dictionary
-lexico.com
-wordnet 
-dictionary.com
-merriam webbster
+- cambridge dictionary
+
+- lexico.com
+
+- wordnet 
+
+- dictionary.com
+
+- merriam webbster
 
 A rule based system which considered the length of the clue, similarity to original clue etc was used to select the best clue. The algorithm also involved elements of Depth First Search to select the best clue from the options. After the best clue was selected the results were shown in a GUI made using Tkinter.
