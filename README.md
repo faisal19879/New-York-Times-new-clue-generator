@@ -17,3 +17,13 @@ The online dictionaries used were:
 - merriam webbster
 
 A rule based system which considered the length of the clue, similarity to original clue etc was used to select the best clue. The algorithm also involved elements of Depth First Search to select the best clue from the options. After the best clue was selected the results were shown in a GUI made using Tkinter.
+
+## A few examples:
+
+![Example 1](image1.png)
+
+![Example 1](image2.png)
+
+![Example 1](image3.png)
+
+![Example 1](image4.png)
